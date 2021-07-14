@@ -1,0 +1,34 @@
+.theBG{
+    height: 680px;
+    background: url('../../assets/images/home-bg.png') no-repeat ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.section1{
+    min-height: 800px;
+}
+
+.section2{
+    min-height: 800px;
+}
+
+.toCenter{
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.toTopRight{
+    margin-top: 250px;
+}
+
+.section2Header{
+    padding-top: 100px;
+}
+
+.grow{
+    transition: all .2s ease-in-out;
+    margin-top: -30px;
+}
